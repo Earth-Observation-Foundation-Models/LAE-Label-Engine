@@ -22,7 +22,7 @@ Large models such as CLIP (Radford et al. 2021) and GPT (Radford et al. 2018) ar
 
 SAM can sense the exact object edge under the specified point or box prompts but is unaware of the specific category. Large Vision-Language Models (LVLMs), such as CLIP, InternVL, etc., can recognize the relationship between images and text because of their alignment training in largescale web image-text pair data. Although some work has attempted to give SAM the ability to perceive categories (Chen, Yang, and Zhang 2023), this ability is not mature enough for actual segmentation in remote sensing, and the segmentation quality is degraded. Combined with SAM and LVLMs capabilities, good quality raw labeled data can be obtained.
 
-<img src="assets/LAE-Label.png" width="500" >
+<img src="assets/LAE-Label.png">
 
 ## Usage
 
