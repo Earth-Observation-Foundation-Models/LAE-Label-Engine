@@ -5,7 +5,7 @@
 <a href="http://arxiv.org/abs/2408.09110"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
 </p>
 
-<h4 align="center"><em>Jiancheng Pan, Yanxing Liu</em></h4>
+<h4 align="center"><em>Yanxing Liu, Jiancheng Pan</em></h4>
 
 <p align="center">
     <a href="#news">News</a> |
