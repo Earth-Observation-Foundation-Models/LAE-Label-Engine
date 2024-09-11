@@ -1,5 +1,5 @@
 
-<h1 align="center"><img width="50" alt="image" src="assets/LAE-logo.png"> LAE-Label: A Data Annotation Engine powered by Large Models</h1>
+<h1 align="center"><img width="50" alt="image" src="assets/LAE-logo.png"> LAE-Label: A Data Annotation Engine for Satellite Imagery</h1>
 
 <p align="center">
 <a href="http://arxiv.org/abs/2408.09110"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
